@@ -1,0 +1,30 @@
+{
+  "name": "osi.xyz",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bourbon-neat": "^1.9.0",
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-bower-files": "^0.2.7",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-concat": "^2.6.1",
+    "gulp-filter": "^5.1.0",
+    "gulp-header": "^2.0.5",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.2.0",
+    "gulp-uglify": "^3.0.0",
+    "jquery": "^3.3.1",
+    "main-bower-files": "^2.13.1",
+    "node-bourbon": "^4.2.8",
+    "node-neat": "^2.0.0-beta.0",
+    "node-refills": "^1.0.1"
+  }
+}
